@@ -10,3 +10,5 @@ else if(n2<n1){
 else{
     console.log("both are equal");
 }
+
+console.log(n1>n2? "n1 is largest":n1<n2 ? "n2 is largest":"same");
